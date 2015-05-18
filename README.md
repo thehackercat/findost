@@ -1,6 +1,10 @@
 # FindOST
-Wechat develop for [美剧插曲妞](http://www.meijuchaquniu.com/) ![FindOST](http://findost.5549bddfc863e.d01.nanoyun.com/findostLogo.jpg "美剧插曲妞Logo")
+Wechat develop for [美剧插曲妞](http://www.meijuchaquniu.com/) 
+
+![FindOST](http://findost.5549bddfc863e.d01.nanoyun.com/findostLogo.jpg "美剧插曲妞Logo")
+
 「美剧插曲妞」的微信公众平台开发
+
 //也是Damon接近Kiroro_Yu的方式之一
 ##overview
 **影视原声**
@@ -17,3 +21,8 @@ Wechat develop for [美剧插曲妞](http://www.meijuchaquniu.com/) ![FindOST](h
 
 **音乐盒子**
 ![indeximg4](http://findost.5549bddfc863e.d01.nanoyun.com/overview4.png "资讯资源--音乐盒子")
+
+##ToDo
++ 扒百度网盘mp3外链.
++ 实现H5拖拽在每日导视页面.
++ 优化音乐盒子界面，实现『网易云音乐』的打碟旋转效果.
