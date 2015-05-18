@@ -1,0 +1,15 @@
+﻿--------------------------------------------------------
+
+--
+-- 表的结构 `yykt_tb`
+--
+
+CREATE TABLE IF NOT EXISTS `yykt_tb` (
+  `yykt_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT COMMENT '序号',
+  `yykt_subject` char(255) NOT NULL COMMENT '标题',
+  `yykt_options` char(255) NOT NULL COMMENT '网页链接',
+  `yykt_true` char(255) NOT NULL COMMENT '描述',
+  `createtime` datetime NOT NULL COMMENT '创建时间',
+  `status` tinyint(1) NOT NULL COMMENT '删除标记',
+  PRIMARY KEY (`yykt_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
