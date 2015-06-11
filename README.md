@@ -5,7 +5,6 @@ Wechat develop for [美剧插曲妞](http://www.meijuchaquniu.com/)
 
 「美剧插曲妞」的微信公众平台开发
 
-//也是Damon接近Kiroro_Yu的方式之一
 ##Overview
 **影视原声**
 ![indeximg1](http://findost.5549bddfc863e.d01.nanoyun.com/overview1.png "原声OST—-影视原声")
